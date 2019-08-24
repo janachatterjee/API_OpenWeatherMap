@@ -41,7 +41,7 @@ Hints and Considerations
 The city data is generated based on random coordinates; as such, your outputs will not be an exact match to the provided starter notebook.
 
 
-You may want to start this assignment by refreshing yourself on the geographic coordinate system.
+You may want to start this project by refreshing yourself on the geographic coordinate system.
 
 
 Next, spend the requisite time necessary to study the OpenWeatherMap API. Based on your initial study, you should be able to answer  basic questions about the API: Where do you request the API key? Which Weather API in particular will you need? What URL endpoints does it expect? What JSON structure does it respond with? Before you write a line of code, you should be aiming to have a crystal clear understanding of your intended outcome.
